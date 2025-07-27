@@ -1,3 +1,8 @@
+<img src="https://github.com/Andson-Sillas/5-Previsao-do-tempo/blob/main/mockup-previsao-do-tempo.png">
+<br>
+<a href="https://github.com/Andson-Sillas/5-Previsao-do-tempo">Link do projeto<a>
+<br>
+<br>
 🌤️ Dev Previsão - Aplicativo de Clima
 Este é um projeto front-end simples e funcional que exibe a previsão do tempo de qualquer cidade informada pelo usuário, utilizando a API pública do wttr.in.
 
